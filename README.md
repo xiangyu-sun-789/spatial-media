@@ -6,8 +6,9 @@ Export flatten 360 videos from `Insta360 Studio`
 1. Select all the 360 clips wanted
 2. Right click, then select `Export all`, with the following settings:
    - `Original resolution`
-   - `Extreme high bitrate`
+   - `Extreme high` bitrate
    - `H.265` (same quality as H.264 but smaller size)
+   - Select `Video`, not `Video (original)`
 
 
 ## Merge Multiple Flatten 360 Videos Into One Flatten 360 Video
